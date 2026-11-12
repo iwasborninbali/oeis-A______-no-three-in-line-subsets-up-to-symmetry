@@ -1,7 +1,11 @@
 # OEIS candidate (no A-number yet): no-three-in-line subsets up to symmetry
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted.** (replaced by the registry tool)
+**OEIS status: not submitted; no A-number yet** (lab registry, 13 Nov 2026).
+
+- A______, no-three-in-line subsets of the n X n grid up to the symmetries of the square: **candidate** (2026-11-13: repository built (core c3)). Certificate: partial.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
 
 ## Definition
