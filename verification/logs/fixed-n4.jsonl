@@ -1,0 +1,8 @@
+{"n":4,"symmetry":"identity","profile":[1,16,120,516,1278,1668,998,204,11],"maximal_profile":[0,0,0,0,2,8,210,116,11],"nodes":4812,"seconds":0.000097}
+{"n":4,"symmetry":"rotate90","profile":[1,0,0,0,4,0,0,0,1],"maximal_profile":[0,0,0,0,2,0,0,0,1],"nodes":6,"seconds":0.000003}
+{"n":4,"symmetry":"rotate180","profile":[1,0,8,0,26,0,26,0,7],"maximal_profile":[0,0,0,0,2,0,2,0,7],"nodes":68,"seconds":0.000004}
+{"n":4,"symmetry":"rotate270","profile":[1,0,0,0,4,0,0,0,1],"maximal_profile":[0,0,0,0,2,0,0,0,1],"nodes":6,"seconds":0.000002}
+{"n":4,"symmetry":"reflect_vertical","profile":[1,0,8,0,24,0,18,0,3],"maximal_profile":[0,0,0,0,2,0,6,0,3],"nodes":54,"seconds":0.000004}
+{"n":4,"symmetry":"reflect_antidiagonal","profile":[1,4,12,22,44,34,38,10,3],"maximal_profile":[0,0,0,0,2,0,20,6,3],"nodes":168,"seconds":0.000007}
+{"n":4,"symmetry":"reflect_horizontal","profile":[1,0,8,0,24,0,18,0,3],"maximal_profile":[0,0,0,0,2,0,6,0,3],"nodes":54,"seconds":0.000004}
+{"n":4,"symmetry":"reflect_diagonal","profile":[1,4,12,22,44,34,38,10,3],"maximal_profile":[0,0,0,0,2,0,20,6,3],"nodes":168,"seconds":0.000008}

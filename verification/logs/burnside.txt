@@ -1,0 +1,9 @@
+n=1 all=2 maximal=1
+n=2 all=6 maximal=1
+n=3 all=46 maximal=6
+n=4 all=667 maximal=56
+n=5 all=14066 maximal=758
+n=6 all=451720 maximal=14798
+n=7 all=12713128 maximal=306727
+n=8 all=514304337 maximal=8319524
+n=9 all=20987026978 maximal=232764015

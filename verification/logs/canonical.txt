@@ -1,0 +1,5 @@
+n=1 all=2 maximal=1
+n=2 all=6 maximal=1
+n=3 all=46 maximal=6
+n=4 all=667 maximal=56
+n=5 all=14066 maximal=758

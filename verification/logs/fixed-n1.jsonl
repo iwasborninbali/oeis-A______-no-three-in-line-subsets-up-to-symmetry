@@ -1,0 +1,8 @@
+{"n":1,"symmetry":"identity","profile":[1,1,0],"maximal_profile":[0,1,0],"nodes":2,"seconds":0.000010}
+{"n":1,"symmetry":"rotate90","profile":[1,1,0],"maximal_profile":[0,1,0],"nodes":2,"seconds":0.000001}
+{"n":1,"symmetry":"rotate180","profile":[1,1,0],"maximal_profile":[0,1,0],"nodes":2,"seconds":0.000001}
+{"n":1,"symmetry":"rotate270","profile":[1,1,0],"maximal_profile":[0,1,0],"nodes":2,"seconds":0.000001}
+{"n":1,"symmetry":"reflect_vertical","profile":[1,1,0],"maximal_profile":[0,1,0],"nodes":2,"seconds":0.000002}
+{"n":1,"symmetry":"reflect_antidiagonal","profile":[1,1,0],"maximal_profile":[0,1,0],"nodes":2,"seconds":0.000001}
+{"n":1,"symmetry":"reflect_horizontal","profile":[1,1,0],"maximal_profile":[0,1,0],"nodes":2,"seconds":0.000001}
+{"n":1,"symmetry":"reflect_diagonal","profile":[1,1,0],"maximal_profile":[0,1,0],"nodes":2,"seconds":0.000001}

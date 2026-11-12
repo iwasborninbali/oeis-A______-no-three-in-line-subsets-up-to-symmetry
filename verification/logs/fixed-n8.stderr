@@ -1,0 +1,7 @@
+DONE n=8 symmetry=rotate90 nodes=223 seconds=0.000088
+DONE n=8 symmetry=rotate180 nodes=63491 seconds=0.002323
+DONE n=8 symmetry=rotate270 nodes=223 seconds=0.000023
+DONE n=8 symmetry=reflect_vertical nodes=26409 seconds=0.000911
+DONE n=8 symmetry=reflect_antidiagonal nodes=171431 seconds=0.005104
+DONE n=8 symmetry=reflect_horizontal nodes=26409 seconds=0.001043
+DONE n=8 symmetry=reflect_diagonal nodes=171431 seconds=0.005120
