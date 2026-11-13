@@ -1,0 +1,12 @@
+# Guide's independent count, 13 Nov 2026, Apple Silicon Mac, one process: cc -O2 -o d4orb d4orb.c; ./d4orb n
+n=1 all=2 all_orbits=2 maximal=1 maximal_orbits=1
+n=2 all=16 all_orbits=6 maximal=1 maximal_orbits=1
+n=3 all=230 all_orbits=46 maximal=23 maximal_orbits=6
+n=4 all=4812 all_orbits=667 maximal=347 maximal_orbits=56
+n=5 all=109536 all_orbits=14066 maximal=5646 maximal_orbits=758
+n=6 all=3599697 all_orbits=451720 maximal=116411 maximal_orbits=14798
+n=7 all=101612896 all_orbits=12713128 maximal=2445518 maximal_orbits=306727
+n=8 all=4113975079 all_orbits=514304337 maximal=66509584 maximal_orbits=8319524   (first, 64-bit build, 146 s)
+n=8 all=4113975079 all_orbits=514304337 maximal=66509584 maximal_orbits=8319524   (265 s, 128-bit build)
+n=9 all=167892639418 all_orbits=20987026978 maximal=1861878186 maximal_orbits=232764015
+# n = 9: 195 min

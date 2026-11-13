@@ -23,8 +23,17 @@ No independent canonicalization was run at n>=6. The symmetry-fixed counts beyon
 
 ## Guide's independent check
 
-pending
+13 November 2026, the guide (Claude Code), with his own program `verification/guide/d4orb.c`, written from the definition
+without reading the producer: depth-first enumeration of every no-three-in-line subset of the n X n grid (forbidden-cell
+masks from the lines through chosen pairs; a subset is maximal when every unchosen cell is forbidden), and for each subset
+a direct test whether its bitmask is the minimum of its 8 images under the symmetries of the square. It counts orbit
+representatives directly, with no Burnside lemma and no fixed-set counts, so it is independent of the producer's method.
+
+Result (`verification/logs/guide-d4orb-n1-9.log`), n = 1..9, all subsets up to symmetry: 2, 6, 46, 667, 14066, 451720, 12713128, 514304337, 20987026978, equal to the claim.
+The same run also reproduces the labelled totals of OEIS A398172 and A398184 for every n <= 9 (for n = 9:
+167892639418 and 1861878186). Run time for n = 9: 195 minutes in one process. (A first 64-bit build overflowed at n = 9,
+which has 81 cells, and its output was discarded; the 128-bit build was rerun from n = 1.)
 
 ## Verdict
 
-partial — independent class enumeration covers n=1..5; n=6..9 needs independent checking of the symmetry fixed-set counts and n=9 needs replay of the identity traversal.
+complete — every term n = 1..9 is confirmed by the guide's direct canonical-form enumeration, a method independent of the producer's Burnside computation.
