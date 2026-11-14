@@ -1,7 +1,7 @@
 # OEIS candidate (no A-number yet): no-three-in-line subsets up to symmetry
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted; no A-number yet** (lab registry, 14 Nov 2026).
+**OEIS status: not submitted; no A-number yet** (lab registry, 15 Nov 2026).
 
 - A______, no-three-in-line subsets of the n X n grid up to the symmetries of the square: **verified** (2026-11-13: verified: guide count n = 1..9). Certificate: complete.
 
